@@ -1,0 +1,10 @@
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\bin\Debug\Creating the Sale Price Calculator (3.3).exe.config
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\bin\Debug\Creating the Sale Price Calculator (3.3).exe
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\bin\Debug\Creating the Sale Price Calculator (3.3).pdb
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\obj\Debug\Creating the Sale Price Calculator (3.3).csprojAssemblyReference.cache
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\obj\Debug\Creating_the_Sale_Price_Calculator__3._3_.Form1.resources
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\obj\Debug\Creating_the_Sale_Price_Calculator__3._3_.Properties.Resources.resources
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\obj\Debug\Creating the Sale Price Calculator (3.3).csproj.GenerateResource.cache
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\obj\Debug\Creating the Sale Price Calculator (3.3).csproj.CoreCompileInputs.cache
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\obj\Debug\Creating the Sale Price Calculator (3.3).exe
+E:\Tutorials\Chapter 3\Creating the Sale Price Calculator (3.3)\Creating the Sale Price Calculator (3.3)\obj\Debug\Creating the Sale Price Calculator (3.3).pdb
